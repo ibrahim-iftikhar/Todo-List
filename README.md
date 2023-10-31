@@ -1,2 +1,2 @@
 # Todo-List
-This project is made with Javascript with Local Storage
+This project is made with JavaScript with Local Storage
