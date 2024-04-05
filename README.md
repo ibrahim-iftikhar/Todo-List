@@ -1,2 +1,3 @@
 # Todo-List
-This projetct is a Todo List using Local Storange
+This is a Todo List using Local Storange in JavaScript
+
